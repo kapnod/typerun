@@ -1,1 +1,1 @@
-# typerun Free keyboard trainer
+# typerun keyboard trainer
